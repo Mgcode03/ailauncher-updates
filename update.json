@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/Mgcode03/ailauncher-updates/raw/main/app-debug.apk",
-  "releaseNotes": "• Added Light/Dark theme toggle\n• UI improvements\n• Bug fixes",
+  "releaseNotes": "• Added alarm & notification support\n• Mini-apps can now play alarm sounds\n• Vibration and notification support\n• Background execution improvements",
   "forceUpdate": false
 }

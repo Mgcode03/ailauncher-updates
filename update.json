@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://github.com/Mgcode03/ailauncher-updates/raw/main/app-debug.apk",
-  "releaseNotes": "Initial release",
+  "releaseNotes": "• Added Light/Dark theme toggle\n• UI improvements\n• Bug fixes",
   "forceUpdate": false
 }
